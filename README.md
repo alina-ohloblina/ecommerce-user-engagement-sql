@@ -27,8 +27,9 @@ This project analyzes user behavior and email engagement using SQL and Looker St
 ## Why It Matters
 
 This project shows how I work with real data to answer business questions. I used CTEs, window functions, and UNION logic to build a clean dataset for visualization and decision-making.
-The Big Query result:
+
+**##The Big Query result:**
 <img width="1351" height="573" alt="image" src="https://github.com/user-attachments/assets/d6b285b9-3761-46d4-9bfb-7db074792932" />
-Looker visualisation:
+**Looker visualisation:**
 <img width="1501" height="870" alt="image" src="https://github.com/user-attachments/assets/2504c1b4-5bd0-454b-87a4-0381260b008a" />
 
